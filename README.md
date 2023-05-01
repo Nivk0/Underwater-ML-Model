@@ -1,8 +1,6 @@
 # Clear Image Translation with CycleGAN
 
 ***Faculty Advisor:*** [Dr. Yapeng Tian](https://www.linkedin.com/in/yapeng-tian-780795141/) <br>
-***Team Lead:*** [Ben Bowers](https://www.linkedin.com/in/benhbowers/) <br>
-***Participants:*** [Murtaza Khan](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Bv4eX%2B99wQFCEphySFPZ4KQ%3D%3D), Ryan Joseph, Saanvi Bala, Nivedh Koya, Ompranay Yedluri 
 
 ![poster](https://github.com/ACM-Research/Image-Transfer/blob/main/poster/poster.png?raw=true)
 
